@@ -67,20 +67,32 @@ python main.py
 ## Usage
 **Register a Criminal:** Use the GUI to enter details and capture photos of a suspect.
 
-Scan for Criminals: Activate real-time surveillance to detect and identify suspects in live video feeds.
+**Scan for Criminals:** Activate real-time surveillance to detect and identify suspects in live video feeds.
 
-Access Database: Retrieve and manage criminal records from the cloud-based database.
+**Access Database:** Retrieve and manage criminal records from the cloud-based database.
 
 ## Project Structure
 main.py - Main application script.
+
 config.py - Configuration file for database settings.
+
 requirements.txt - List of dependencies.
+
 modules/ - Directory containing core modules for face detection, recognition, and database operations.
+
 gui/ - Directory containing GUI implementation.
-Future Work
+
+
+## Future Work
+
 Integration with additional biometric identification methods.
+
 Enhancement of facial recognition accuracy under varying conditions.
+
 Expansion of the system to support multi-camera setups.
+
 Addressing ethical and privacy concerns in facial recognition technology.
-Acknowledgements
+
+## Acknowledgements
+
 I would like to thank my project guide, Prof. Dr. Raghavendra Kulkarni, for his constant support and guidance. I also extend my gratitude to the faculty members of the Department of Computer Science, my friends, and family for their encouragement and assistance throughout the project.
