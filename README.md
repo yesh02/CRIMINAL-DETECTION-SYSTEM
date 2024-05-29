@@ -40,3 +40,41 @@ The Criminal Detection System is a portable, real-time surveillance solution des
    ```bash
    git clone https://github.com/yourusername/criminal-detection-system.git
    cd criminal-detection-system
+
+Set Up Virtual Environment:
+
+bash
+Copy code
+python -m venv env
+source env/bin/activate   # On Windows, use `env\Scripts\activate`
+Install Dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Configure Database:
+
+Set up an AWS MySQL database.
+Update database connection details in the configuration file.
+Run the Application:
+
+bash
+Copy code
+python main.py
+Usage
+Register a Criminal: Use the GUI to enter details and capture photos of a suspect.
+Scan for Criminals: Activate real-time surveillance to detect and identify suspects in live video feeds.
+Access Database: Retrieve and manage criminal records from the cloud-based database.
+Project Structure
+main.py - Main application script.
+config.py - Configuration file for database settings.
+requirements.txt - List of dependencies.
+modules/ - Directory containing core modules for face detection, recognition, and database operations.
+gui/ - Directory containing GUI implementation.
+Future Work
+Integration with additional biometric identification methods.
+Enhancement of facial recognition accuracy under varying conditions.
+Expansion of the system to support multi-camera setups.
+Addressing ethical and privacy concerns in facial recognition technology.
+Acknowledgements
+I would like to thank my project guide, Prof. Dr. Raghavendra Kulkarni, for his constant support and guidance. I also extend my gratitude to the faculty members of the Department of Computer Science, my friends, and family for their encouragement and assistance throughout the project.
