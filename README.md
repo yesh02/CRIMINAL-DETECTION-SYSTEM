@@ -85,13 +85,13 @@ python main.py
 
 ## Future Work
 
-Integration with additional biometric identification methods.
+-Integration with additional biometric identification methods.
 
-Enhancement of facial recognition accuracy under varying conditions.
+-Enhancement of facial recognition accuracy under varying conditions.
 
-Expansion of the system to support multi-camera setups.
+-Expansion of the system to support multi-camera setups.
 
-Addressing ethical and privacy concerns in facial recognition technology.
+-Addressing ethical and privacy concerns in facial recognition technology.
 
 ## Acknowledgements
 
