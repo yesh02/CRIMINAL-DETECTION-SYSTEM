@@ -98,3 +98,7 @@ python main.py
 I would like to thank my project guide, Prof. Dr. Raghavendra Kulkarni, for his constant support and guidance. I also extend my gratitude to the faculty members of the Department of Computer Science, my friends, and family for their encouragement and assistance throughout the project.
 
 ##DEMO 
+
+
+https://github.com/yesh02/CRIMINAL-DETECTION-SYSTEM/assets/112691767/4aad3d7c-c017-4f58-9e36-44d80808a729
+
