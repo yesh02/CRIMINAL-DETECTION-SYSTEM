@@ -52,10 +52,10 @@ The Criminal Detection System is a portable, real-time surveillance solution des
 
 ```bash
 pip install -r requirements.txt
-Configure Database:
 ```
 
-## Set up an AWS MySQL database.
+## Configure Database:
+- **Set up an AWS MySQL database.**
 Update database connection details in the configuration file.
 
 ## Run the Application:
