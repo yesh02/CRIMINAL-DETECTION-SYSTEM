@@ -50,22 +50,28 @@ The Criminal Detection System is a portable, real-time surveillance solution des
 
 ## Install Dependencies:
 
-  bash
+```bash
 pip install -r requirements.txt
 Configure Database:
+```
 
-Set up an AWS MySQL database.
+## Set up an AWS MySQL database.
 Update database connection details in the configuration file.
-Run the Application:
 
-bash
-Copy code
+## Run the Application:
+
+```bash
 python main.py
-Usage
-Register a Criminal: Use the GUI to enter details and capture photos of a suspect.
+```
+
+## Usage
+**Register a Criminal:** Use the GUI to enter details and capture photos of a suspect.
+
 Scan for Criminals: Activate real-time surveillance to detect and identify suspects in live video feeds.
+
 Access Database: Retrieve and manage criminal records from the cloud-based database.
-Project Structure
+
+## Project Structure
 main.py - Main application script.
 config.py - Configuration file for database settings.
 requirements.txt - List of dependencies.
