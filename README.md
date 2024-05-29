@@ -5,13 +5,9 @@
 **Institution:** GITAM (Deemed to be University), School of Science, Department of Computer Science  
 **Project Guide:** Dr. Raghavendra Kulkarni, Ph. D.
 
-![Banner Image](images/banner.png) <!-- Replace with your image -->
-
 ## Project Overview
 
 The Criminal Detection System is a portable, real-time surveillance solution designed to enhance law enforcement efforts using advanced facial recognition technology. This project leverages computer vision techniques and cloud-based database management to provide comprehensive criminal registration, dynamic suspect scanning, and seamless integration with CCTV infrastructure using standard webcams.
-
-![System Architecture](images/architecture.png) <!-- Replace with your image -->
 
 ## Features
 
@@ -24,8 +20,6 @@ The Criminal Detection System is a portable, real-time surveillance solution des
 - **Portability and Accessibility:** Access the system from anywhere using standard computing devices.
 
 ## System Architecture
-
-![Architecture Diagram](images/system_architecture.png) <!-- Replace with your image -->
 
 - **Webcam:** Captures real-time video footage for analysis.
 - **Facial Recognition Module:** Detects and recognizes faces using OpenCV and custom algorithms.
