@@ -65,22 +65,22 @@ python main.py
 ```
 
 ## Usage
-**Register a Criminal:** Use the GUI to enter details and capture photos of a suspect.
+- **Register a Criminal:** Use the GUI to enter details and capture photos of a suspect.
 
-**Scan for Criminals:** Activate real-time surveillance to detect and identify suspects in live video feeds.
+- **Scan for Criminals:** Activate real-time surveillance to detect and identify suspects in live video feeds.
 
-**Access Database:** Retrieve and manage criminal records from the cloud-based database.
+- **Access Database:** Retrieve and manage criminal records from the cloud-based database.
 
 ## Project Structure
-main.py - Main application script.
+- main.py - Main application script.
 
-config.py - Configuration file for database settings.
+- config.py - Configuration file for database settings.
 
-requirements.txt - List of dependencies.
+- requirements.txt - List of dependencies.
 
-modules/ - Directory containing core modules for face detection, recognition, and database operations.
+- modules/ - Directory containing core modules for face detection, recognition, and database operations.
 
-gui/ - Directory containing GUI implementation.
+- gui/ - Directory containing GUI implementation.
 
 
 ## Future Work
